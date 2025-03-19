@@ -16,7 +16,7 @@ Feel free to customize the sites created with this template as you like!
 ## Getting Started
 
 1. Click "[use this template]" to create a new site.
-2. Update the content of `slides/Slides.md` with your own presentation.
+2. Update the content of `Slides.md` with your own presentation.
 
 ## Custom Themes
 
